@@ -1,0 +1,28 @@
+[submodule "happystreet.boscot.com"]
+    path = happystreet.boscot.com
+    url = https://github.com/Boscot/game-happystreet
+
+[submodule "criminalcase.boscot.com"]
+    path = criminalcase.boscot.com
+    url = https://github.com/Boscot/game-criminalcase
+
+[submodule "tribez.boscot.com"]
+    path = tribez.boscot.com
+    url = https://github.com/Boscot/game-tribez
+
+[submodule "airportcity.boscot.com"]
+    path = airportcity.boscot.com
+    url = https://github.com/Boscot/game-airportcity
+
+[submodule "tapzoo.boscot.com"]
+    path = tapzoo.boscot.com
+    url = https://github.com/Boscot/game-tapzoo
+
+[submodule "core"]
+    path = core
+    url = https://github.com/Boscot/core
+
+[submodule "stub"]
+    path = stub
+    url = https://github.com/Boscot/stub
+
